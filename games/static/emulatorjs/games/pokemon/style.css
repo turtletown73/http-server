@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#game-div {
+    width: 130vh;
+    background-color: #000000;
+    text-align: center;
+    margin: auto;
+}
+
+.link { 
+    display: inline-block;
+    width: 25vh;
+    height: 25vh;
+    font-size: large;
+    background-color: #444444;
+    color:white;
+    transition-duration: 50ms;
+    border-radius: 30%;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+
+.link:hover {
+    color: black;
+    background-color: #bbbbbb;
+}

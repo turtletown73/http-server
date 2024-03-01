@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#form {
+    text-align: center;
+}
+
+#message {
+    width: 50%;
+    height: 10vh;
+    border-radius: 5px;
+}
+
+#submit {
+    width: 11vh;
+    height: 11vh;
+    border-radius: 5px;
+}

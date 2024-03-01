@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.link {
+    width: 75%;
+    height: 10vw;
+    font-size: xx-large;
+    background-color: #444444;
+    color:white;
+    transition-duration: 50ms;
+    border-radius: 5%;
+    margin-top: 5px;
+}
+
+.link:hover {
+    color: black;
+    background-color: #bbbbbb;
+}
